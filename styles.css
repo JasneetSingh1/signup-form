@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.imagery{
+    width: 40%;
+    background-image: url('/imagery-img.avif');
+    background-size: fill ;
+    background-repeat: no-repeat;
+}
