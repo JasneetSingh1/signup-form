@@ -20,7 +20,7 @@ body {
 
 .imagery {
     width: 40%;
-    background-image: url('./background-img.png');
+    background-image: url("./background-img.png");
     background-size: fill;
     background-repeat: no-repeat;
     display: flex;
